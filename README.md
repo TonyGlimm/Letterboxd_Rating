@@ -5,6 +5,8 @@ Goal is to create a movie rating system which will recommend me the next movie i
 
 I will pull the data myself using Letterboxd.com as a source, look over it and see if I have to gather more, explore it and clean it up and eventually build a recommendation model which will rate all the movies I didnt see but the other reviewers already rated. Afterwards I will sort that list and maybe give out the top 5. I'm not sure about the output yet and will see how I want to do it when I come closer to the end of this project. 
 
+For this project I will try out google colab. 
+
 
 ## Table of Contents 📹
 
