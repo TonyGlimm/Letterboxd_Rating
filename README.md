@@ -13,9 +13,11 @@ For this project I will try out google colab.
 
 ### Data Collectino via webscraping
 - Scraped  data from the [letterboxd.com](https://letterboxd.com/) using Python's `BeautifulSoup` package.
-
-### Data Wrangling
-
-### EDA
+- Cleaned up pulled data
+- manipulate data into fitting format
 
 ### Modeling
+- Decided on SVD(surprise) to create user recommendations
+- used anti-test-user to create a user-x-title matrix for the movies a user didnt watch yet
+- made predictions on the grading
+- sorted predictions and gave out top 20 movies as recommendations for that user
